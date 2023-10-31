@@ -1,14 +1,5 @@
 "use strict";
-// const decBtn = document.querySelector(".decrement");
-// const incBtn = document.querySelector(".increment");
-// const num1 = +prompt("ko`payuvchini kiriting");
-// const display = document.querySelector(".value");
-// incBtn.addEventListener("click", (e) => {
-//   display.textContent = +display.textContent * num1;
-// });
-// decBtn.addEventListener("click", (e) => {
-//   display.textContent = +display.textContent / 2;
-// });
+
 const buttons = document.querySelectorAll(".button");
 
 const inputDisplay = document.querySelector(".display");
